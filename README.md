@@ -4,6 +4,6 @@
 
 **make bold face**
 
-![ pitcutre of giraffe ] (https://www.pexels.com/photo/close-up-photography-of-giraffe-802112/)
+![pitcutre of giraffe](https://www.pexels.com/photo/close-up-photography-of-giraffe-802112/)
 
 
