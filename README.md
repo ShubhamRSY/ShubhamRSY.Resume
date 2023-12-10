@@ -32,7 +32,8 @@ I am currently pursuing a Master's in Data Science at the University of Connecti
 
 Feel free to explore my repository for a deeper insight into my professional journey.
 
-[LinkedIn Profile](www.linkedin.com/in/shubham-yedekar-8a2a141b7)
+[LinkedIn Profile](https://www.linkedin.com/in/shubham-yedekar-8a2a141b7)
+
 
 ## Contributing
 
@@ -40,6 +41,7 @@ Interested in collaborating? Feel free to fork this repo, create a new branch fo
 
 ## Contact
 
-For more information or professional inquiries, please reach out via email at shubham_rajaram.yedekar@uconn.edu or connect with me on [LinkedIn](www.linkedin.com/in/shubham-yedekar-8a2a141b7).
+For more information or professional inquiries, please reach out via email at shubham_rajaram.yedekar@uconn.edu or connect with me on [LinkedIn Profile](https://www.linkedin.com/in/shubham-yedekar-8a2a141b7)
+.
 
 
